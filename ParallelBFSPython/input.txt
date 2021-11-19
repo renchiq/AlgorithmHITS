@@ -1,0 +1,4 @@
+http://website1	0;http://website2 http://website4
+http://website2	1000000;http://website3
+http://website3	1000000;http://website1 http://website2
+http://website4	1000000;http://website1
