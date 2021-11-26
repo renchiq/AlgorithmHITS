@@ -1,0 +1,7 @@
+www.azure.com	1	1	www.windows.com
+www.office.com	1	1	www.onedrive.com,www.azure.com,www.windows-11.com
+www.onedrive.com	1	1	www.sharepoint.com
+www.sharepoint.com	1	1	www.windows.com,www.azure.com
+www.surface.com	1	1	www.windows-11.com
+www.windows-11.com	1	1	www.sharepoint.com,www.surface.com
+www.windows.com	1	1	www.office.com,www.onedrive.com,www.azure.com,www.surface.com,www.windows-11.com
