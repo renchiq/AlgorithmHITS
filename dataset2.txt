@@ -1,0 +1,15 @@
+1abc.ru	1	1	xyz.com,coco.li,crous.fr,soho.fg,beer.cz
+2xyz.com	1	1	abc.ru
+3coco.li	1	1	abc.ru,xyz.com
+4crous.fr	1	1	xyz.com,coco.li,soho.fg
+5soho.fg	1	1	abc.ru,coco.li,crous.fr,water.co
+6water.co	1	1	abc.ru,soho.fg
+7beer.cz	1	1	soho.fg
+
+[('abc.ru', 'xyz.com'), ('abc.ru', 'coco.li'), ('abc.ru', 'crous.fr'), ('abc.ru', 'soho.fg'), ('abc.ru', 'beer.cz'),
+('xyz.com', 'abc.ru'),
+('coco.li', 'abc.ru'), ('coco.li', 'xyz.com'),
+('crous.fr', 'xyz.com'), ('crous.fr', 'coco.li'), ('crous.fr', 'soho.fg'),
+('soho.fg', 'abc.ru'), ('soho.fg', 'coco.li'), ('soho.fg', 'crous.fr'), ('soho.fg', 'water.co'),
+('water.co', 'abc.ru'), ('water.co', 'soho.fg'),
+('beer.cz', 'soho.fg')]

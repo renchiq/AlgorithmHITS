@@ -1,0 +1,9 @@
+A	1	1	B,C,D
+B	1	1	D,C
+C	1	1	D
+D	1	1	
+E	1	1	B,D,F,H
+F	1	1	H,G
+G	1	1	I,H
+H	1	1	I
+I	1	1	
